@@ -1,0 +1,92 @@
+
+.logo { 
+    width: 20px;
+    margin-right: 5px; 
+}
+.control-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .control-center button {
+    margin-right: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .section-1, .section-2 {
+    display: none;
+    padding: 20px;
+  }
+  
+  .section-1.show, .section-2.show {
+    display: block;
+  }
+  
+  .image-button img {
+    width: 20px;
+    margin-right: 5px; 
+}
+
+.titulo-1 {
+    text-align: center
+
+}
+
+
+
+
+
+.container img {
+    float: left;
+  }
+  
+
+  .container2 img {
+    float: left;
+  }
+
+  .container3 img {
+    float: left;
+  }
+
+  .tamañoairpods { 
+    width: 40px;
+  }
+
+
+
+
+.espaciado {
+    margin-top: 0;
+    margin-bottom: 5rem;
+  }
+  
+  footer {
+    background-color: #e8e9ec;
+    color: #8f8383;
+    padding: 50px 0;
+  }
+  
+  footer h3 {
+    color: #8f8383;
+  }
+  
+  footer ul li {
+    list-style: none;
+    margin-bottom: 20px;
+  }
+  
+  footer ul li a {
+    color:#8f8383;
+  }
+  
+  footer p {
+    margin-bottom: 40px;
+  }
+  
